@@ -12,4 +12,3 @@ def score_nostalgia(html):
 
     return min(score, 5)
 
-
